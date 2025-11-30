@@ -13,14 +13,13 @@ et_xmlfile==2.0.0
 Flask==2.3.2
 google-auth==2.41.1
 google-auth-oauthlib==1.2.3
-google-trans-new==1.1.9
 gpt4all==2.8.2
 greenlet==3.2.4
 gspread==6.2.1
 h11==0.16.0
 httpcore==1.0.9
 httplib2==0.31.0
-httpx==0.28.1
+httpx>=0.23.0
 idna==3.11
 itsdangerous==2.2.0
 Jinja2==3.1.6
